@@ -1,6 +1,7 @@
 package DataStructure.LinkedList;
 
-import LeetCode.utils.ListNode;
+
+import utils.ListNode;
 
 import java.util.ArrayList;
 import java.util.Arrays;

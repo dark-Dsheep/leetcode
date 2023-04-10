@@ -1,10 +1,12 @@
 package DataStructure.LinkedList;
 
-import LeetCode.utils.ListNode;
+
+import utils.ListNode;
 
 import java.util.List;
 
-import static LeetCode.utils.StructureUtil.generateListNode;
+import static utils.StructureUtil.generateListNode;
+
 
 public class LC_1669 {
 

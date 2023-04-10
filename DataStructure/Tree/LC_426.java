@@ -1,6 +1,7 @@
 package DataStructure.Tree;
 
-import LeetCode.utils.Node;
+
+import utils.Node;
 
 public class LC_426 {
 

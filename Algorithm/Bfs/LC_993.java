@@ -1,6 +1,8 @@
 package Algorithm.Bfs;
 
-import LeetCode.utils.TreeNode;
+
+
+import utils.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

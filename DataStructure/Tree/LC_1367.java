@@ -1,8 +1,10 @@
 package DataStructure.Tree;
 
-import LeetCode.utils.ListNode;
-import LeetCode.utils.StructureUtil;
-import LeetCode.utils.TreeNode;
+
+
+import utils.ListNode;
+import utils.StructureUtil;
+import utils.TreeNode;
 
 import java.util.List;
 

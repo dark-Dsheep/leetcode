@@ -1,6 +1,8 @@
 package DataStructure.Tree;
 
-import LeetCode.utils.TreeNode;
+
+
+import utils.TreeNode;
 
 import java.util.ArrayList;
 import java.util.HashMap;

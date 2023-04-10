@@ -1,6 +1,7 @@
 package Algorithm.Bfs;
 
-import LeetCode.utils.TreeNode;
+
+import utils.TreeNode;
 
 public class LC_1740 {
 

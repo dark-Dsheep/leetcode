@@ -1,4 +1,4 @@
-package LeetCode.utils;
+package utils;
 
 /**
  * @author The End of Death

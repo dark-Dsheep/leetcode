@@ -1,6 +1,8 @@
 package DataStructure.Tree;
 
-import LeetCode.utils.TreeNode;
+
+
+import utils.TreeNode;
 
 import java.util.HashSet;
 import java.util.Set;

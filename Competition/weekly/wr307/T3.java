@@ -1,6 +1,8 @@
 package Competition.weekly.wr307;
 
-import LeetCode.utils.TreeNode;
+
+
+import utils.TreeNode;
 
 import java.util.LinkedList;
 

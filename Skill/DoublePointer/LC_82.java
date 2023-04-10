@@ -1,7 +1,9 @@
 package Skill.DoublePointer;
 
-import LeetCode.utils.ListNode;
-import LeetCode.utils.StructureUtil;
+
+
+import utils.ListNode;
+import utils.StructureUtil;
 
 import java.util.List;
 

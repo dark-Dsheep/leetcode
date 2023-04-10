@@ -1,6 +1,8 @@
 package Algorithm.BinarySearch;
 
-import LeetCode.utils.TreeNode;
+
+
+import utils.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

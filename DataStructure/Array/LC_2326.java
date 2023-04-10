@@ -1,6 +1,8 @@
 package DataStructure.Array;
 
-import LeetCode.utils.ListNode;
+
+
+import utils.ListNode;
 
 import java.util.Arrays;
 

@@ -1,6 +1,7 @@
 package DataStructure.MonotonicStack;
 
-import LeetCode.utils.TreeNode;
+
+import utils.TreeNode;
 
 import java.util.Arrays;
 import java.util.LinkedList;
