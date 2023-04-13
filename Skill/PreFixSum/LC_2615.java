@@ -1,6 +1,7 @@
 package Skill.PreFixSum;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
@@ -32,6 +33,7 @@ public class LC_2615 {
     }
 
     public static void main(String[] args) {
-
+        int[] a = {1, 3, 1, 1, 2};
+        System.out.println(Arrays.toString(new LC_2615().distance(a)));
     }
 }
