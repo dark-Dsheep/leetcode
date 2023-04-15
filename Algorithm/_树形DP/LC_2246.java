@@ -24,7 +24,7 @@ public class LC_2246 {
             g[i].add(parent[i]);
         }
         dfs(0, -1);
-        return ans + 1;
+        return ans + 1; // 这里求的最长边的数量，要求返回节点个数，需要+1
     }
 
     int dfs(int x, int fa) {
