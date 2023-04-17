@@ -18,7 +18,7 @@ public class LC_687 {
         int lmax = dfs(root.left, root.val) + 1;
         int rmax = dfs(root.right, root.val) + 1;
         ans = Math.max(ans, lmax + rmax);
-        if (root.val != v) return 0; // 值不相同的链返回-1
+        if (root.val != v) return -1; // 值不相同的链返回-1
         return Math.max(lmax, rmax);
     }
 
