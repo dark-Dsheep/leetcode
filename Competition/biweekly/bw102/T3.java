@@ -1,6 +1,8 @@
 package Competition.biweekly.bw102;
 
-import LeetCode.utils.TreeNode;
+
+
+import utils.TreeNode;
 
 import java.util.LinkedList;
 
