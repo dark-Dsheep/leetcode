@@ -26,6 +26,5 @@ public class LC_70 {
 
 
     public static void main(String[] args) {
-
     }
 }
