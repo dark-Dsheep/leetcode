@@ -7,6 +7,4 @@ public class T4 {
         return -1;
     }
 
-
-
 }
