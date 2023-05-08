@@ -9,7 +9,7 @@ public class T3 {
         for (var q : queries) {
             int idx = q[0], c = q[1];
             if (nums[idx] != 0) {
-                if (check(idx, n)) {
+                if (idx - 1 >= 0 && idx + 1 < n) {
                     if (nums[idx - 1] == nums[idx] && nums[idx + 1] == nums[idx]) {
                         sum -= 2;
                     } else if (nums[idx - 1] == nums[idx] || nums[idx + 1] == nums[idx]) {
@@ -22,7 +22,7 @@ public class T3 {
                 }
             }
             nums[idx] = c;
-            if (check(idx, n)) {
+            if (idx - 1 >= 0 && idx + 1 < n) {
                 if (nums[idx - 1] == nums[idx] && nums[idx + 1] == nums[idx]) {
                     sum += 2;
                 } else if (nums[idx - 1] == nums[idx] || nums[idx + 1] == nums[idx]) {
@@ -37,14 +37,6 @@ public class T3 {
         }
         return ans;
     }
-
-    boolean check(int idx, int n) {
-        if (idx - 1 >= 0 && idx + 1 < n) {
-            return true;
-        }
-        return false;
-    }
-
 
     public static void main(String[] args) {
 
