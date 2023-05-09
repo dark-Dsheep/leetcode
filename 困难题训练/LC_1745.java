@@ -1,4 +1,4 @@
-package HardEX;
+package 困难题训练;
 
 public class LC_1745 {
 
